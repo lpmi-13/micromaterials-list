@@ -16,6 +16,10 @@ So far the following categories are things that I'm tracking, but I'd love to ad
 - Software development
 - Mathematics
 
+## Learning objectives
+
+Due to the very focused nature of the materials (at least at present) the learning objectives tend to cluster closer to knowledge and comprehension, though I'm hoping to add some application and possibly analysis at some point.
+
 ### Language
 
 - [simple past endings on irregular verbs](https://github.com/lpmi-13/touchwords/) - helps learners to find and correct simple past-tense irregular verbs that have been overgeneralized to use -ed endings.
