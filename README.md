@@ -34,6 +34,8 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [git submodules](https://github.com/lpmi-13/submodz/) - helps learners practice running through some simple submodule commands.
 - [public and private ip addresses](https://github.com/lpmi-13/ipinder/) - helps learners practice identifying which IP addresses are public and which aren't. 
 - [netmasks and subnets](https://github.com/lpmi-13/netmask-slider/) - helps learners visualize what a netmask is and how it affects aspects of the subnet.
+- [array methods in javascript](https://arrayexplorer.netlify.app/) - easily search for different array methods based on what you want to do.
+- [object methods in javascript](https://objectexplorer.netlify.app/) - easily search for different object methods based on what you want to do.
 
 ### Mathematics
 
