@@ -37,6 +37,7 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [network debugging](https://mysteries.wizardzines.com) - a fun choose-your-own-adventure style journey through some network debugging.
 - [array methods in javascript](https://arrayexplorer.netlify.app/) - easily search for different array methods based on what you want to do.
 - [object methods in javascript](https://objectexplorer.netlify.app/) - easily search for different object methods based on what you want to do.
+- [introduction to programming languages](https://www.hedycode.com) - a gradual programming language that introduces learners to the concepts in programming without the burden of learning all new syntax.
 
 ### Mathematics
 
