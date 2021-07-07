@@ -20,12 +20,6 @@ So far the following categories are things that I'm tracking, but I'd love to ad
 
 Due to the very focused nature of the materials (at least at present) the learning objectives tend to cluster closer to knowledge and comprehension, though I'm hoping to add some application and possibly analysis at some point.
 
-### Language
-
-- [simple past endings on irregular verbs](https://github.com/lpmi-13/touchwords/) - helps learners to find and correct simple past-tense irregular verbs that have been overgeneralized to use -ed endings.
-- [fixing issues with articles](https://github.com/lpmi-13/anwriting/) - helps learners find missing articles in written texts.
-- [stress match game](https://github.com/lpmi-13/stress-match-game/) - helps learners match expected stresses in academic words.
-- [rhyme match game](https://github.com/lpmi-13/rhyme-match-game/) - helps learners match rhymes in vowels of common words.
 
 ### Software development
 
@@ -38,6 +32,16 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [array methods in javascript](https://arrayexplorer.netlify.app/) - easily search for different array methods based on what you want to do.
 - [object methods in javascript](https://objectexplorer.netlify.app/) - easily search for different object methods based on what you want to do.
 - [introduction to programming languages](https://www.hedycode.com) - a gradual programming language that introduces learners to the concepts in programming without the burden of learning all new syntax.
+- [using puppet for system configuration](https://github.com/puppetlabs/puppet-quest-guide) - a quest-based set of learning activities to practice running puppet commands.
+- [cron expresssion](https://github.com/lpmi-13/cron-trigger) - a Web UI to practice reading and writing cron expressions that are randomly generated.
+- [semantic versioning](https://github.com/lpmi-13/semver-questions) - Understanding what the semver numbers mean and which numbers to increment in which situation.
+
+### Language
+
+- [simple past endings on irregular verbs](https://github.com/lpmi-13/touchwords/) - helps learners to find and correct simple past-tense irregular verbs that have been overgeneralized to use -ed endings.
+- [fixing issues with articles](https://github.com/lpmi-13/anwriting/) - helps learners find missing articles in written texts.
+- [stress match game](https://github.com/lpmi-13/stress-match-game/) - helps learners match expected stresses in academic words.
+- [rhyme match game](https://github.com/lpmi-13/rhyme-match-game/) - helps learners match rhymes in vowels of common words.
 
 ### Mathematics
 
