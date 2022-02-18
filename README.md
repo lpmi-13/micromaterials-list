@@ -39,6 +39,7 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [Interactive Python REPL in the browser](https://futurecoder.io) - A python learning environment with interactive exercises available directly in the browser.
 - [Mess with DNS](https://messwithdns.net/) - An interactive playground to try creating DNS records and running weird experiments to see what breaks.
 - [Typescript playground](https://typescriptlang.org) - A nice in-browser place to play around with typescript. Even looks alright in mobile!
+- [Type Challenges](https://github.com/type-challenges/type-challenges) - This uses the above playground to actually evaluate answers to challenges in the browser.
 
 ### Language
 
