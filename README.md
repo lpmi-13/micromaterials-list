@@ -42,6 +42,7 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [Type Challenges](https://github.com/type-challenges/type-challenges) - This uses the above playground to actually evaluate answers to challenges in the browser.
 - [A11ypant](https://a11yphant.com) - In-browser challenges to build skills and knowledge in web accessibility.
 - [Higher Order Functions](https://github.com/lpmi-13/higher-order-functions) - A gitpod-based practice space for completing gaps in higher order functions.
+- [SQL Murder Mystery](https://mystery.knightlab.com) - Use SQL queries to solve a murder mystery.
 
 ### Language
 
