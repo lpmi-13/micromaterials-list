@@ -44,6 +44,9 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [Higher Order Functions](https://github.com/lpmi-13/higher-order-functions) - A gitpod-based practice space for completing gaps in higher order functions.
 - [SQL Murder Mystery](https://mystery.knightlab.com) - Use SQL queries to solve a murder mystery.
 - [Explain.dalibo.com](https://explain.dalibo.com) - Visualize the flow of your SQL queries.
+- [Sad Servers](https://sadservers.com) - Get access to real VMs to try out different linux sysadmin scenarios like "fix apache trying to serve index.html" or "two containers can't connect over the internal network"...a great place to actually run commands like you would in an authentic situation.
+- [Mongo Dojo](https://github.com/lpmi-13/mongo-dojo) - Try out administrating a MongoDB replicaset. This one is a bit niche, since it's specifically for the use case of needing to do things like rolling index builds across a replicaset that's running on VMs, but for actually running the commands and seeing what happens, it's a working environment.
+- [Sad Pods](https://github.com/lpmi-13/sadpods) - Based on the amazing [Sad Servers](https://sadservers.com), this is an implementation in Gitpod. It doesn't have all the scenarios yet, but I'm hoping to build it out over time.
 
 ### Language
 
