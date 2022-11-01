@@ -48,6 +48,7 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [Mongo Dojo](https://github.com/lpmi-13/mongo-dojo) - Try out administrating a MongoDB replicaset. This one is a bit niche, since it's specifically for the use case of needing to do things like rolling index builds across a replicaset that's running on VMs, but for actually running the commands and seeing what happens, it's a working environment.
 - [Sad Pods - Badlogs](https://github.com/lpmi-13/sadpods-badlogs) - Based on the amazing [Sad Servers](https://sadservers.com), this is an implementation of the "St John" exercise in Gitpod. Find an application process that writing unneeded logs and shut it down.
 - [Sad Pods - Webserver](https://github.com/lpmi-13/sadpods-webserver) - Based on the "Tokyo" scenario in [sad servers](https://sadservers.com), this Gitpod-based micromaterial deals with fixing a webserver that's unreachable locally.
+- [Sad Pods - DNS](https://github.com/lpmi-13/sadpods-dns) - Based on the "Jakarta" activity at [sad servers](https://sadservers.com), this is an activity to troubleshoot why you can't ping `google.com`, but implemented in Gitpod.
 
 ### Language
 
