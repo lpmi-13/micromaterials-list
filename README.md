@@ -50,6 +50,7 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [Sad Pods - Webserver](https://github.com/lpmi-13/sadpods-webserver) - Based on the "Tokyo" scenario in [sad servers](https://sadservers.com), this Gitpod-based micromaterial deals with fixing a webserver that's unreachable locally.
 - [Sad Pods - DNS](https://github.com/lpmi-13/sadpods-dns) - Based on the "Jakarta" activity at [sad servers](https://sadservers.com), this is an activity to troubleshoot why you can't ping `google.com`, but implemented in Gitpod.
 - [Sad Pods - Docker](https://github.com/lpmi-13/sadpods-docker) - Based on the "Salta" scenario from [sad servers](https://sadservers.com), but in Gitpod, this involves troubleshooting why a Docker-based service won't start up.
+- [Netsim](https://netsim.erinn.io) - A web-based network simulator to try out sending packets around a simple network
 
 ### Language
 
