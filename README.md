@@ -33,7 +33,7 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [object methods in javascript](https://objectexplorer.netlify.app/) - easily search for different object methods based on what you want to do.
 - [introduction to programming languages](https://www.hedycode.com) - a gradual programming language that introduces learners to the concepts in programming without the burden of learning all new syntax.
 - [using puppet for system configuration](https://github.com/puppetlabs/puppet-quest-guide) - a quest-based set of learning activities to practice running puppet commands.
-- [cron expresssions](https://github.com/lpmi-13/cron-trigger) - a Web UI to practice reading and writing cron expressions that are randomly generated.
+- [cron expressions](https://github.com/lpmi-13/cron-trigger) - a Web UI to practice reading and writing cron expressions that are randomly generated.
 - [semantic versioning](https://github.com/lpmi-13/semver-questions) - Understanding what the semver numbers mean and which numbers to increment in which situation.
 - [Interactive and Auto-graded Tutorials In Javascript](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial) - An interactive javascript tutorial run entirely inside [gitpods](https://gitpod.io).
 - [Interactive Python REPL in the browser](https://futurecoder.io) - A python learning environment with interactive exercises available directly in the browser.
