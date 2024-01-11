@@ -52,6 +52,7 @@ Due to the very focused nature of the materials (at least at present) the learni
 - [Sad Pods - Docker](https://github.com/lpmi-13/sadpods-docker) - Based on the "Salta" scenario from [sad servers](https://sadservers.com), but in Gitpod, this involves troubleshooting why a Docker-based service won't start up.
 - [Netsim](https://netsim.erinn.io) - A web-based network simulator to try out sending packets around a simple network
 - [Game of Active Directory](https://github.com/Orange-Cyberdefense/GOAD) - a project to practice penetration testing in a full vulnerable Active Directory environment.
+- [Ixiumiuz Labs](https://labs.iximiuz.com/challenges) - a playground for doing things with VMs/containers.
 
 ### Language
 
